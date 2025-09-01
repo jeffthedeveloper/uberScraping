@@ -19,7 +19,7 @@ This project contains Python scripts designed to scrape Uber receipts from email
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/jeffthedeveloper/uberscraping.git](https://github.com/jeffthedeveloper/uberscraping.git)
+    git clone https://github.com/jeffthedeveloper/uberscraping.git
     cd uberscraping
     ```
 
